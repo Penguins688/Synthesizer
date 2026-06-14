@@ -40,3 +40,5 @@ python3 main.py
     }
 }
 ```
+
+**I recommend 8 for MAX_VOICES and a maximum of 7 harmonics for the best results**r
