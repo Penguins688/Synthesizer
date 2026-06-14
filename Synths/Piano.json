@@ -1,0 +1,24 @@
+{
+    "SETTINGS": {
+        "MAX_VOICES": 8,
+        "MASTER_VOLUME": 0.2,
+        "ATTACK": 0.01,
+        "DECAY": 0.1,
+        "SUSTAIN": 0.7,      
+        "RELEASE": 0.2
+    },
+
+    "OSCILLATOR": {
+        "WAVE_TYPE": "SINE"
+    },
+
+    "HARMONICS": {
+        "1": 1.00,
+        "2": 0.65,
+        "3": 0.45,
+        "4": 0.30,
+        "5": 0.22,
+        "6": 0.15,
+        "7": 0.10
+    }
+}
